@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="21" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:zh-TW; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="Title" basedon="_Normal" followedby="Body Text" props="margin-top:24.000000pt; font-size:18.000000pt; margin-bottom:12.000000pt; font-weight:bold; color:345A8A; text-align:center; font-family:Times New Roman"/>
+<s type="P" name="_Normal" basedon="Normal"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="lang:ar-SA; font-size:12.000000pt; margin-bottom:10.000000pt; font-family:Times New Roman"/>
+<s type="P" name="Body Text" basedon="_Normal" props="margin-bottom:9.000000pt; margin-top:9.000000pt"/>
+<s type="P" name="Author" basedon="Normal" followedby="Body Text" props="text-align:center"/>
+<s type="P" name="Date" basedon="Normal" followedby="Body Text" props="text-align:center"/>
+<s type="P" name="Heading 2" basedon="_Normal" followedby="Body Text" props="font-weight:bold; margin-top:10.000000pt; font-size:16.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:4F81BD"/>
+<s type="P" name="First Paragraph" basedon="Body Text" followedby="Body Text"/>
+<s type="P" name="Source Code" basedon="_Normal" props="bgcolor:f8f8f8"/>
+<s type="P" name="Abstract" basedon="_Normal" followedby="Body Text" props="margin-top:15.000000pt; font-size:10.000000pt; margin-bottom:15.000000pt"/>
+<s type="C" name="AlertTok" basedon="Verbatim Char" props="color:ef2929; bgcolor:f8f8f8"/>
+<s type="C" name="AnnotationTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:8f5902; font-style:italic"/>
+<s type="C" name="AttributeTok" basedon="Verbatim Char" props="color:c4a000; bgcolor:f8f8f8"/>
+<s type="C" name="BaseNTok" basedon="Verbatim Char" props="color:0000cf; bgcolor:f8f8f8"/>
+<s type="P" name="Bibliography" basedon="_Normal" followedby="Bibliography"/>
+<s type="P" name="Block Text" basedon="Body Text" followedby="Body Text" props="text-indent:0.000000pt; font-size:10.000000pt; margin-bottom:5.000000pt; font-family:Times New Roman; margin-top:5.000000pt"/>
+<s type="C" name="Body Text Char" basedon="Default Paragraph Font"/>
+<s type="C" name="BuiltInTok" basedon="Verbatim Char" props="bgcolor:f8f8f8"/>
+<s type="P" name="Caption" basedon="_Normal" props="margin-top:0.000000pt; margin-bottom:6.000000pt; font-style:italic"/>
+<s type="C" name="CharTok" basedon="Verbatim Char" props="color:4e9a06; bgcolor:f8f8f8"/>
+<s type="C" name="CommentTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; color:8f5902; font-style:italic"/>
+<s type="C" name="CommentVarTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:8f5902; font-style:italic"/>
+<s type="P" name="Compact" basedon="Body Text" props="margin-bottom:1.800000pt; margin-top:1.800000pt"/>
+<s type="C" name="ConstantTok" basedon="Verbatim Char" props="color:000000; bgcolor:f8f8f8"/>
+<s type="C" name="ControlFlowTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:204a87"/>
+<s type="C" name="DataTypeTok" basedon="Verbatim Char" props="color:204a87; bgcolor:f8f8f8"/>
+<s type="C" name="DecValTok" basedon="Verbatim Char" props="color:0000cf; bgcolor:f8f8f8"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="P" name="Definition" basedon="_Normal"/>
+<s type="P" name="Definition Term" basedon="_Normal" followedby="Definition" props="margin-bottom:0.000000pt; font-weight:bold"/>
+<s type="C" name="DocumentationTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:8f5902; font-style:italic"/>
+<s type="C" name="ErrorTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:a40000"/>
+<s type="C" name="ExtensionTok" basedon="Verbatim Char" props="bgcolor:f8f8f8"/>
+<s type="P" name="Figure" basedon="_Normal"/>
+<s type="P" name="Figure with Caption" basedon="Figure"/>
+<s type="C" name="FloatTok" basedon="Verbatim Char" props="color:0000cf; bgcolor:f8f8f8"/>
+<s type="C" name="Footnote Reference" basedon="Body Text Char" props="text-position:superscript"/>
+<s type="P" name="Footnote Text" basedon="_Normal" followedby="Footnote Text"/>
+<s type="C" name="FunctionTok" basedon="Verbatim Char" props="color:000000; bgcolor:f8f8f8"/>
+<s type="P" name="Heading 1" basedon="_Normal" followedby="Body Text" props="font-weight:bold; margin-top:24.000000pt; font-size:16.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:345A8A"/>
+<s type="P" name="Heading 3" basedon="_Normal" followedby="Body Text" props="font-weight:bold; margin-top:10.000000pt; font-size:14.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:4F81BD"/>
+<s type="P" name="Heading 4" basedon="_Normal" followedby="Body Text" props="font-weight:bold; margin-top:10.000000pt; font-size:12.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:4F81BD"/>
+<s type="P" name="Heading 5" basedon="_Normal" followedby="Body Text" props="margin-top:10.000000pt; font-size:12.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:4F81BD; font-style:italic"/>
+<s type="P" name="Heading 6" basedon="_Normal" followedby="Body Text" props="margin-top:10.000000pt; font-size:12.000000pt; margin-bottom:0.000000pt; font-family:Times New Roman; color:4F81BD"/>
+<s type="C" name="Hyperlink" basedon="Body Text Char" props="color:4F81BD"/>
+<s type="P" name="Image Caption" basedon="Caption"/>
+<s type="C" name="ImportTok" basedon="Verbatim Char" props="bgcolor:f8f8f8"/>
+<s type="C" name="InformationTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:8f5902; font-style:italic"/>
+<s type="C" name="KeywordTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:204a87"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+<s type="C" name="NormalTok" basedon="Verbatim Char" props="bgcolor:f8f8f8"/>
+<s type="C" name="OperatorTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:ce5c00"/>
+<s type="C" name="OtherTok" basedon="Verbatim Char" props="color:8f5902; bgcolor:f8f8f8"/>
+<s type="C" name="PreprocessorTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; color:8f5902; font-style:italic"/>
+<s type="C" name="RegionMarkerTok" basedon="Verbatim Char" props="bgcolor:f8f8f8"/>
+<s type="C" name="SpecialCharTok" basedon="Verbatim Char" props="color:000000; bgcolor:f8f8f8"/>
+<s type="C" name="SpecialStringTok" basedon="Verbatim Char" props="color:4e9a06; bgcolor:f8f8f8"/>
+<s type="C" name="StringTok" basedon="Verbatim Char" props="color:4e9a06; bgcolor:f8f8f8"/>
+<s type="P" name="Subtitle" basedon="Title" followedby="Body Text" props="text-align:center; margin-top:12.000000pt; font-size:15.000000pt; margin-bottom:12.000000pt"/>
+<s type="P" name="TOC Heading" basedon="Heading 1" followedby="Body Text" props="line-height:1.079167; margin-top:12.000000pt; font-weight:normal; font-family:Times New Roman; color:365F91"/>
+<s type="P" name="Table Caption" basedon="Caption"/>
+<s type="C" name="VariableTok" basedon="Verbatim Char" props="color:000000; bgcolor:f8f8f8"/>
+<s type="C" name="Verbatim Char" basedon="Body Text Char" props="font-family:Consolas; font-size:11.000000pt"/>
+<s type="C" name="VerbatimStringTok" basedon="Verbatim Char" props="color:4e9a06; bgcolor:f8f8f8"/>
+<s type="C" name="WarningTok" basedon="Verbatim Char" props="bgcolor:f8f8f8; font-weight:bold; color:8f5902; font-style:italic"/>
+</styles>
+<pagesize pagetype="Custom" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="2">
+<p style="Title" xid="3">My First Document</p>
+<p style="Author" xid="4">Chun Hsien Wu, PhD.</p>
+<p style="Date" xid="5">2020年1月25日</p>
+<p style="Heading 2" xid="6"><bookmark type="start" name="r-markdown" xid="7"/><bookmark type="end" name="r-markdown" xid="8"/>R Markdown</p>
+<p style="First Paragraph" xid="9">This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a xlink:href="http://rmarkdown.rstudio.com" xid="10">http://rmarkdown.rstudio.com</a>.</p>
+<p style="Body Text" xid="12">When you click the <c props="font-weight:bold">Knit</c> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+<p style="Source Code" xid="13">summary(cars)</p>
+<p style="Source Code" xid="14">##      speed           dist       <br/>##  Min.   : 4.0   Min.   :  2.00  <br/>##  1st Qu.:12.0   1st Qu.: 26.00  <br/>##  Median :15.0   Median : 36.00  <br/>##  Mean   :15.4   Mean   : 42.98  <br/>##  3rd Qu.:19.0   3rd Qu.: 56.00  <br/>##  Max.   :25.0   Max.   :120.00</p>
+<p style="Heading 2" xid="15"><bookmark type="start" name="including-plots" xid="16"/><bookmark type="end" name="including-plots" xid="17"/>Including Plots</p>
+<p style="First Paragraph" xid="18">You can also embed plots, for example:</p>
+<p style="Body Text" xid="19"><image dataid="rId24" xid="20" props="height:4.042105in; width:5.052631in"/></p>
+<p style="Body Text" xid="21">Note that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+</section>
+<data>
+<d name="rId24" mime-type="image/png" base64="yes">
+iVBORw0KGgoAAAANSUhEUgAAAeAAAAGACAMAAABC/kH9AAADAFBMVEUAAAABAQECAgIDAwME
+BAQFBQUGBgYHBwcICAgJCQkKCgoLCwsMDAwNDQ0ODg4PDw8QEBARERESEhITExMUFBQVFRUW
+FhYXFxcYGBgZGRkaGhobGxscHBwdHR0eHh4fHx8gICAhISEiIiIjIyMkJCQlJSUmJiYnJyco
+KCgpKSkqKiorKyssLCwtLS0uLi4vLy8wMDAxMTEyMjIzMzM0NDQ1NTU2NjY3Nzc4ODg5OTk6
+Ojo7Ozs8PDw9PT0+Pj4/Pz9AQEBBQUFCQkJDQ0NERERFRUVGRkZHR0dISEhJSUlKSkpLS0tM
+TExNTU1OTk5PT09QUFBRUVFSUlJTU1NUVFRVVVVWVlZXV1dYWFhZWVlaWlpbW1tcXFxdXV1e
+Xl5fX19gYGBhYWFiYmJjY2NkZGRlZWVmZmZnZ2doaGhpaWlqampra2tsbGxtbW1ubm5vb29w
+cHBxcXFycnJzc3N0dHR1dXV2dnZ3d3d4eHh5eXl6enp7e3t8fHx9fX1+fn5/f3+AgICBgYGC
+goKDg4OEhISFhYWGhoaHh4eIiIiJiYmKioqLi4uMjIyNjY2Ojo6Pj4+QkJCRkZGSkpKTk5OU
+lJSVlZWWlpaXl5eYmJiZmZmampqbm5ucnJydnZ2enp6fn5+goKChoaGioqKjo6OkpKSlpaWm
+pqanp6eoqKipqamqqqqrq6usrKytra2urq6vr6+wsLCxsbGysrKzs7O0tLS1tbW2tra3t7e4
+uLi5ubm6urq7u7u8vLy9vb2+vr6/v7/AwMDBwcHCwsLDw8PExMTFxcXGxsbHx8fIyMjJycnK
+ysrLy8vMzMzNzc3Ozs7Pz8/Q0NDR0dHS0tLT09PU1NTV1dXW1tbX19fY2NjZ2dna2trb29vc
+3Nzd3d3e3t7f39/g4ODh4eHi4uLj4+Pk5OTl5eXm5ubn5+fo6Ojp6enq6urr6+vs7Ozt7e3u
+7u7v7+/w8PDx8fHy8vLz8/P09PT19fX29vb39/f4+Pj5+fn6+vr7+/v8/Pz9/f3+/v7////i
+sF19AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAU20lEQVR4nO2dB3wU1dqHJwEhha6kQCjGEEIH
+QYrwgcIViOaTolFELoIXI5cAAjcXQYxyoyBNylWBUKUGgwkghiYfoGAoUiwgAVSC6Ce9QwrJ
+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
+</d>
+</data>
+</abiword>
